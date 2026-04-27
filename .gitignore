@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (cache, downloaded runs, model output)
+data/
+
+# Logs
+logs/
+
+# SSH keys
+id_ed25519*
+
+# Notebook HTML exports
+html/
