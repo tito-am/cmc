@@ -1,0 +1,28 @@
+# Données météo
+herbie-data
+cfgrib
+eccodes
+
+# Données / calcul
+xarray
+numpy
+pandas
+pyarrow
+scipy
+
+# Géospatial
+cartopy
+pyproj
+shapely
+
+# Visualisation
+matplotlib
+metpy
+
+# Utilitaires
+requests
+pooch
+
+# Jupyter
+jupyter
+ipykernel
